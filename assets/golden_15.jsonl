@@ -1,0 +1,15 @@
+{"id": "G01", "question": "연회비는 언제 청구되나요?", "answer": "발급일이 속한 달의 다음 달", "source": "제12조", "check": "최초 1년 면제 아님"}
+{"id": "G02", "question": "연회비를 면제받으려면 얼마를 써야 하나요?", "answer": "직전 1년 300,000원 이상", "source": "제12조의2", "check": "2026년 3월 이전 발급자는 200,000원"}
+{"id": "G03", "question": "할부는 얼마부터 되나요?", "answer": "5만원 이상", "source": "제7조", "check": null}
+{"id": "G04", "question": "포인트는 얼마당 1점인가요?", "answer": "1,000원당 1포인트", "source": "제18조", "check": null}
+{"id": "G05", "question": "포인트 유효기간은?", "answer": "5년", "source": "제18조", "check": null}
+{"id": "G06", "question": "카드를 잃어버리면 부정사용 금액은 누가 부담하나요?", "answer": "신고 접수 이후는 회사 부담", "source": "제15조", "check": "신고 전은 다름"}
+{"id": "G07", "question": "이용한도는 어떻게 정해지나요?", "answer": "심사 기준에 따라 산정", "source": "제5조", "check": "신용상태 변동 시 조정"}
+{"id": "G08", "question": "미결제 대금이 있는데 해지할 수 있나요?", "answer": "완제 후 해지", "source": "제21조", "check": null}
+{"id": "G09", "question": "플래티넘 해외겸용 연회비는?", "answer": "100,000원", "source": "별표1", "check": null}
+{"id": "G10", "question": "골드 국내전용 연회비는?", "answer": "30,000원", "source": "별표1", "check": null}
+{"id": "G11", "question": "무이자 할부 대상 가맹점은 어떻게 아나요?", "answer": "매월 공지", "source": "제7조", "check": null}
+{"id": "G12", "question": "이 약관은 언제 개정되었나요?", "answer": "2026년 3월", "source": "표지", "check": null}
+{"id": "G13", "question": "2026년 1월 발급 회원의 연회비 면제 기준은?", "answer": "200,000원", "source": "제12조의2", "check": "판 차이 함정"}
+{"id": "G14", "question": "청구금액 384,200원의 결제일은?", "answer": "2026-09-25", "source": "명세서", "check": "명세서 교차 확인"}
+{"id": "G15", "question": "6개월 할부로 산 가전마트 금액은?", "answer": "124,000원", "source": "명세서", "check": null}
